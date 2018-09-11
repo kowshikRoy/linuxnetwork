@@ -8,3 +8,4 @@ This repo contains dockerfile with common networking commands
 - telnet 
 - dnsutils 
 - tcpdump
+- iputils-ping
